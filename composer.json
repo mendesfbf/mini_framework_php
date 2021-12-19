@@ -1,0 +1,15 @@
+{
+    "name": "mendesfbf/mini_framework_php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andre Mendes",
+            "email": "mendesfbf.andre2@gmail.com"
+        }
+    ],
+    "require": {}
+}
